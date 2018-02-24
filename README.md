@@ -1,1 +1,1 @@
-# CPP-Course
+# CPP-Course - Lessons & Homework
